@@ -82,6 +82,8 @@ Now install the latest ver of ruby with this command
 
 `rbenv install 2.6.5`
 
+if `rbenv install` won't work, https://github.com/rbenv/ruby-build
+
 Once that command completes, make the latest ver of ruby the `global` ruby for your machine 
 
 `rbenv global 2.6.5`
